@@ -1,12 +1,7 @@
 {
-  "name": "react-scripts",
+  "name": "react-scripts-modified",
   "version": "5.0.1",
   "description": "Configuration and scripts for Create React App.",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/react-scripts"
-  },
   "license": "MIT",
   "engines": {
     "node": ">=14.0.0"
@@ -24,7 +19,7 @@
     "utils"
   ],
   "bin": {
-    "react-scripts": "./bin/react-scripts.js"
+    "react-scripts-modified": "./bin/react-scripts.js"
   },
   "types": "./lib/react-app.d.ts",
   "dependencies": {
